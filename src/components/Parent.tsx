@@ -3,8 +3,7 @@ function Parent() {
 
   return (
     <div>
-      <p>Parent component</p>
-        <p>Test</p>
+      <p>Parent component</p>123
     </div>
   );
 }
